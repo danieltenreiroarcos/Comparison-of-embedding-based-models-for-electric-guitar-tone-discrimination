@@ -41,13 +41,3 @@ El flujo experimental general fue el siguiente:
 - Comparación entre configuraciones baseline y modelos ajustados.
 
 Las métricas se calcularon exclusivamente sobre el conjunto de validación para garantizar consistencia metodológica.
-
-###Resultados generales
-
-Los experimentos muestran diferencias claras entre arquitecturas en términos de capacidad de discriminación tímbrica.
-
-En particular:
-- Los modelos auto-supervisados de gran escala muestran mayor capacidad de capturar estructura tímbrica relevante.
-- El fine-tuning no garantiza mejora en tareas de similitud, dependiendo de la estrategia de entrenamiento.
-- La similitud coseno resulta adecuada para comparar embeddings al centrarse en la orientación del vector en el espacio latente.
-- Las visualizaciones t-SNE permiten observar distintos grados de agrupación según la arquitectura empleada.
