@@ -1,8 +1,6 @@
 # Comparativa de modelos de IA para la representación de audio aplicada al análisis de tono de guitarra eléctrica
 
-## Trabajo Fin de Estudios — Máster en Inteligencia Artificial (UNIR)
-## Autor: Daniel Tenreiro Arcos
-## Año: 2026
+## Trabajo Fin de Estudios — Máster en Inteligencia Artificial (UNIR) - Autor: Daniel Tenreiro Arcos
 
 ### Descripción
 Este repositorio contiene el desarrollo experimental del Trabajo Fin de Estudios centrado en la comparación de modelos de representación de audio basados en deep learning para el análisis de tono en guitarra eléctrica.
