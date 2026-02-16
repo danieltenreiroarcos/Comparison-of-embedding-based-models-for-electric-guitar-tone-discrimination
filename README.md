@@ -1,4 +1,4 @@
-# Comparativa de modelos de IA para la representación de audio aplicada al análisis de tono de guitarra eléctrica
+# Una evaluación comparativa de modelos basados ​​en embeddings para la discriminación del tono de la guitarra eléctrica
 
 ## Trabajo Fin de Estudios — Máster en Inteligencia Artificial (UNIR)
 ### Autor
@@ -46,7 +46,7 @@ Las métricas se calcularon exclusivamente sobre el conjunto de validación para
 
 
 
-# Comparison of AI Models for Audio Representation Applied to Electric Guitar Tone Analysis
+# A Comparative Evaluation of Embedding-Based Models for Electric Guitar Tone Discrimination
 
 ## Final Master’s Project — Master’s Degree in Artificial Intelligence (UNIR)
 ### Author
