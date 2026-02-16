@@ -3,6 +3,7 @@
 ## Trabajo Fin de Estudios — Máster en Inteligencia Artificial (UNIR)
 ### Autor
 Daniel Tenreiro Arcos
+
 LinedIn: https://www.linkedin.com/in/danieltenreiro/
 
 ### Descripción
